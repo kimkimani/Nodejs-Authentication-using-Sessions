@@ -1,0 +1,12 @@
+.content{
+    width:50%;
+    height:80vh;
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.content form{
+    width: 100%;
+}
